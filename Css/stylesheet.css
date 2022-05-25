@@ -1,0 +1,86 @@
+.menu{
+    margin-bottom:30px;
+    width:100%;
+    word-spacing:50px;
+    padding:10px;
+    display:inline-block;
+    background-color:white;
+
+
+}
+.all{
+
+    margin: 0;
+  
+}
+
+
+.me{
+    padding:35px;
+    background-color:black;
+    color:white;
+    margin-top: -5px;
+    
+    
+
+
+}
+
+.interests{
+    padding:35px;
+    margin-top:-5px;
+    margin-bottom:80px;
+    background-color:black;
+    color:white;
+
+    
+
+}
+
+
+
+.studies{
+    padding:60px;
+    background-color:black;
+    color:white;
+    list-style:none;
+    margin-top:100px;
+    line-height:40px
+
+
+}
+
+.footer{
+    font-weight:bold;
+    background-color:white;
+    color:black;
+    margin-top:100px;
+    padding:25px
+}
+
+.heading{
+    font-weight:1000;
+    position:absolute;
+    top:100px;right:550px
+}
+
+.profileimage{
+    border-radius:1000px;
+    position:absolute;
+    right:300px;bottom:-2050px;
+    
+
+}
+
+.skillslogo{
+    font-style:bold;
+    font-weight:300;
+    word-spacing:50px;
+    margin-bottom:50px;
+    margin-top:50px;
+}
+
+.listtype{
+
+    list-style:none;
+}
